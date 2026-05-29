@@ -1,0 +1,5 @@
+print('Olá, queremos saber a sau data de aniversario')
+dia = int(input('Qual o dia que você nasceu: '))
+mes = input('Qual o mês que você nasceu: ')
+ano = int(input('Qual o ano que você nasceu: '))
+print('você nasceu no dia' , dia , 'de' , mes , 'de' , ano)
